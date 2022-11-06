@@ -5,6 +5,9 @@
   "repository": "https://github.com/Alysson1013/clean-react.git",
   "author": "Alysson Eduardo <alysson6801@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^29.2.2",
     "@types/node": "^18.11.9",
